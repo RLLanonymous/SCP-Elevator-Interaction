@@ -11,7 +11,7 @@
 
 <br>
 
-S.E.I is an Exiled Reboot: 8.9.11 plugin. With this plugin you can manage wich SCP can interact with wich Elevator.
+S.E.I is an Exiled 9.5.0 plugin. With this plugin you can manage wich SCP can interact with wich Elevator.
 You can also manage the Hint display if a SCP can't interact with an elevator.
 
 <h1 align="center">S.E.I - Installation</h1>
